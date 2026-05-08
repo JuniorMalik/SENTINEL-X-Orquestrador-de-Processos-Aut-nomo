@@ -1,0 +1,1 @@
+# SENTINEL-X-Orquestrador-de-Processos-Aut-nomo
